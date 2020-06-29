@@ -1,2 +1,3 @@
-# DoPOC
-A series of POCs that support detection only
+## DoPOC
+所有的poc都是python3写的。 可以直接验证某个网站是否存在此漏洞。
+目前还在慢慢积累中。
